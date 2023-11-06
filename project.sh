@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Prompt the user for the project name
+# I am prompting the user for the project name
 read -p "Enter project name: " project_name
 
-# Prompt the user to select project type
+# Then here prompting the user to select project type
 echo "Select project type:"
 echo "1. Python"
 echo "2. Bash"
