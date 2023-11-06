@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Function to display script usage
+# Here i will start by adding my function to display script usage
 display_usage() {
     echo "Usage: $0"
     echo "This script initializes a new project."
