@@ -19,6 +19,7 @@ cd "$project_name"
 
 # Create project-specific files and directories
 case "$project_type" in
+
     1)
         # Python project
         # Create virtual environment using pip
