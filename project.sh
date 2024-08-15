@@ -5,12 +5,14 @@ read -p "Enter project name: " project_name
 
 # Then here prompting the user to select project type
 echo "Select project type:"
+
 echo "1. Python"
 echo "2. Bash"
 read -p "Enter your choice: " project_type
 
 # Create the project directory
 mkdir "$project_name"
+
 cd "$project_name"
 
 # Create project-specific files and directories
