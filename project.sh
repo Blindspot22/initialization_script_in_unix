@@ -36,6 +36,7 @@ case "$project_type" in
         echo 'print("Hello, Python!")' >> "$project_name.py"
         echo "Python starter file '$project_name.py' created."
         ;;
+        
     2)
         # Bash project
         # Create a README file with run instructions
