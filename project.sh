@@ -7,6 +7,7 @@ read -p "Enter project name: " project_name
 echo "Select project type:"
 
 echo "1. Python"
+
 echo "2. Bash"
 read -p "Enter your choice: " project_type
 
